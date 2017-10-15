@@ -1,0 +1,13 @@
+body{
+    background-color: #1b6d85;
+}
+#container{
+
+    width:360px;
+    margin: 0 auto;
+    border: 2px solid gray;
+}
+.completed{
+    color:gray;
+    text-decoration: line-through;
+}

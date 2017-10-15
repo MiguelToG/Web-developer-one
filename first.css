@@ -1,0 +1,19 @@
+h1{
+	color :red;
+	border-color: #F0FF00;
+	border-width: 5px;
+	border-style: solid;
+}
+li{
+	border :8px dashed rgb(255,100,0);
+	color : green;
+}
+h4{
+	background: White;
+	color: purple;
+}
+body{
+	background: url(https://image.freepik.com/free-vector/abstract-global-technology-background-with-connecting-dots_1048-5940.jpg);
+	background-repeat: no-repeat ;
+	background-size: cover;
+}
